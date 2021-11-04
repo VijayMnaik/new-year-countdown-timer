@@ -1,0 +1,31 @@
+body{
+    background-image: url('./sunset.jpg');
+background-size: cover;}
+h1{
+    text-align: center;
+    font-style: oblique;
+    color:bisque;
+    margin-top: 7%;
+}
+.container{
+    margin-top: 100px;
+    /* margin-left: 35%; */
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.times{
+    margin: 0 2rem;
+
+}
+p{
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .hex{
+    text-align: center;
+    align-items: center center;
+} */
+
+
